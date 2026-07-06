@@ -115,26 +115,6 @@ An AI-powered photo discovery platform that automatically finds a person's photo
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=legaceee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legaceee&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=legaceee&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 📈 Contribution Graph
 
 <div align="center">
@@ -145,15 +125,6 @@ An AI-powered photo discovery platform that automatically finds a person's photo
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=legaceee&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
 
 # 📌 2026 Goals
 
